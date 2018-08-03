@@ -8,4 +8,4 @@ Bonjour,
     - l'affichage des statistiques 
     - la base de données (project_breizhlink)
    
-Attention pour que cela fonctionne, il faut bien garder tout les noms des dossiers (surtout pour le premier package qui permet au graphique des statistiques de fonctionner).
+Attention pour que cela fonctionne, il faut bien garder tout les noms des dossiers (surtout pour le premier package qui permet au graphique des statistiques de fonctionner). Et mettre le jar java-json dans eclispe pour que le grafique fonctionne
